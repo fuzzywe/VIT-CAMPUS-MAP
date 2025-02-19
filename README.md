@@ -7,10 +7,9 @@ Based on the extracted text from the image, here's a structured README file for 
 # 🗺️ Development of Prototype for Campus Map
 👥 Team Members
 
-    Harshitha S - 21MIS0036
-    Yoban Krishna B - 21MIS0287
+    JANANI A - 21MIS0068
     Ruthika J - 21MIS0359
-    Mithilesh Prasanna S - 21MIS0428
+    
 ## 📖 Overview
 
 The **Campus Map** is a digital navigation tool designed as a mobile application to simplify campus exploration and enhance user experience. This project addresses the practical challenges of campus navigation and provides a comprehensive record of daily and weekly campus activities.
